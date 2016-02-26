@@ -1,0 +1,8 @@
+Tipo abstrato de dados se refere a um tipo criado pelo usuário onde podem se executados métodos em relação a esse tipo abstrato de dados.
+Exemplos de TADs são Classes, Filas, Pilhas, entre outros.
+
+Classe é um TAD.
+
+Objetos são instãncias (alocações de memória) da classe.
+
+Mensagem é uma chamada a um objeto para usar um de seus métodos, ativando um comportamento descrito por sua classe. 
