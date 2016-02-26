@@ -1,0 +1,4 @@
+
+O new serve para alocar um espaço de memória para um ponteiro, e posteriormente fazer esse ponteio (que geralmente é um objeto) apontar para algum lugar da memória do sistema.
+
+Um espaço é reservado memória para o uso desse ponteiro quando a palavra "new" é usada.
