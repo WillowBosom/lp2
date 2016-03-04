@@ -1,0 +1,1 @@
+no 3 deu erro porque a divisão não odia ser inteira, no 4 deu certo porque a divisão dava um decimal. O double também deu cero (y).
