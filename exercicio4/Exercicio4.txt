@@ -1,0 +1,6 @@
+1 - C) 4;
+2 - B) 2;
+3 - D) Uma exceção é levantada;
+4 - C) null;
+5 - D) Nada, pois ocorre um erro de compilação;
+6 - A) 3;
